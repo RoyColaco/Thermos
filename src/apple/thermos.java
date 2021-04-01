@@ -20,6 +20,7 @@ public class thermos {
 	void details()
 	{
 		System.out.println("Brand : "+brand+"\nLiquid : "+Liquid+"Liter : "+liters);
+		System.out.println("Brand : "+brand+"\nLiquid : "+Liquid+"Liter : "+liters);
 	}
 	
 	public static void main(String args[]) {
